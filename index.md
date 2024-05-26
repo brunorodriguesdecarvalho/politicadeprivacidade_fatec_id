@@ -9,8 +9,8 @@ Esta Política de Privacidade explica como coletamos, usamos, divulgamos e prote
 - **Informações obtidas através do SIGA**: O SIGA (Sistema Integrado de Gestão do Aluno) é o portal do Governo do Estado de São Paulo para gestão dos alunos das Faculdades de Tecnologia do Estado de São Paulo (FATEC). Para garantir que apenas alunos com matrícula ativa utilizem o App do documento digital do Estudante FATEC e também para obter os dados necessários para emissão do seu documento digital, o usuário do app precisa informar durante a emissão do documento seu login e sua senha de acesso ao SIGA. Tanto o seu login quanto sua senha NÃO são armazenados ou usados para qualquer outra atividade além da validação da sua matrícula e obtenção dos dados para emissão do documento do estudante FATEC.
   
 ## Uso das Informações
-- As fotos capturadas são usadas exclusivamente para criar sua carteirinha digital.
-- As informações de uso NÃO são analisadas para melhorar a funcionalidade e a experiência do usuário no aplicativo.
+- Uma única foto é capturada, e é usada exclusivamente para criar sua carteirinha digital e não é armazenada ou compartilhada fora do dispositivo do usuário. 
+- As informações de uso NÃO são coletadas, compartilhadas ou sequer analisadas para melhorar a funcionalidade e a experiência do usuário no aplicativo. A única maneira pela qual podemos eventualmente analisar os dados de uso é através da coleta do seu feedback via formulário do Teams e com seu consentimento. Você precisaria manualmente acessar esse link e não existe nada no app que mensure ou colete dados de sua experiência.
 
 ## Compartilhamento de Informações
 - Não compartilhamos suas informações pessoais com terceiros em nenhuma hipótese. O app foi desenvolvido de modo que nenhum dos seus dados sejam usados para qualquer outra atividade ou interesse além da emissão digital do seu documento de estudante. 

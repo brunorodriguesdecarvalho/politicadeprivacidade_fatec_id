@@ -1,3 +1,6 @@
+---
+---
+
 # Política de Privacidade do App Android FATEC ID
 
 A sua privacidade é uma PRIORIDADE para nós. 

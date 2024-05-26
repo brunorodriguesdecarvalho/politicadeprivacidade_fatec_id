@@ -1,1 +1,0 @@
-# politicadeprivacidade_fatec_id
